@@ -28,7 +28,7 @@ const Projects = () => {
     {
       title: 'Virtual Voice Assistant',
       description: 'An AI-powered assistant that performs automated tasks using speech commands. Implemented search automation, reminders, and file handling using natural language inputs.',
-      image: '${import.meta.env.BASE_URL}project-voice-assistant.jpg',
+      image: `${import.meta.env.BASE_URL}project-voice-assistant.jpg`,
       icon: Cpu,
       tech: ['Python', 'SpeechRecognition', 'pyttsx3', 'NLP'],
       github: '#',
@@ -38,7 +38,7 @@ const Projects = () => {
     {
       title: 'Real-Time Object Detection',
       description: 'Built a real-time object detection system capable of tracking multiple objects in video streams using YOLOv5. Achieved high-accuracy detection and smooth object tracking in live video feeds.',
-      image: '${import.meta.env.BASE_URL}project-object-detection.jpg',
+      image: `${import.meta.env.BASE_URL}project-object-detection.jpg`,
       icon: Eye,
       tech: ['YOLOv5', 'Python', 'OpenCV', 'Deep Learning'],
       github: '#',
@@ -48,7 +48,7 @@ const Projects = () => {
     {
       title: 'Comments Mining with TF-IDF',
       description: 'Performed text mining to identify inherent bias in comments. Research paper accepted for ICCTRDA Conference 2025. Extracted bias patterns and contributed insights to the final research outcomes.',
-      image: '${import.meta.env.BASE_URL}project-comments-mining.jpg',
+      image: `${import.meta.env.BASE_URL}project-comments-mining.jpg`,
       icon: Brain,
       tech: ['Python', 'TF-IDF', 'NLP', 'Text Mining'],
       github: '#',
