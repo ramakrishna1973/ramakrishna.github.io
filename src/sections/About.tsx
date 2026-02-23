@@ -24,7 +24,7 @@ const About = () => {
   }, []);
 
   const stats = [
-    { icon: Code2, label: 'Years Experience', value: '1' },
+    { icon: Code2, label: 'Years Experience', value: '1+' },
     { icon: Brain, label: 'ML Projects', value: '10+' },
     { icon: Database, label: 'Certifications', value: '5+' },
   ];
