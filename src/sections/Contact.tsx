@@ -68,8 +68,8 @@ const Contact = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, label: 'GitHub', href: 'https://github.com' },
-    { icon: Linkedin, label: 'LinkedIn', href: 'https://linkedin.com' },
+    { icon: Github, label: 'GitHub', href: 'https://github.com/ramakrishna1973' },
+    { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/maram-ramakrishna-reddy-6752a8269/' },
   ];
 
   return (
